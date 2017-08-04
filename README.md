@@ -1,7 +1,6 @@
 # johndeweylegaspi.github.io
 <html>
   <head>
-    <title>Personal Information</title>
   </head>
   <body>
     Name: John Dewey B. Legaspi<br>
