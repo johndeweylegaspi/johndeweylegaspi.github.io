@@ -1,5 +1,4 @@
 # johndeweylegaspi.github.io
-
 <html>
   <head>
     <title>Personal Information</title>
